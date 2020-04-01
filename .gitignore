@@ -1,0 +1,15 @@
+# System Files
+.DS_Store
+._.DS_Store
+Thumbs.db
+
+# compiled output
+/build
+/Release
+/dist
+/dll
+.tmp
+
+node_modules
+yarn.lock
+package.lock.json
