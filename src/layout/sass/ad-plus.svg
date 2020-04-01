@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #383838;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>ad-plus</title>
+  <path class="cls-1" d="M46,44V40H44v4H40v2h4v4h2V46h4V44Zm0-30V10H44v4H40v2h4v4h2V16h4V14ZM16,44V40H14v4H10v2h4v4h2V46h4V44Zm0-30V10H14v4H10v2h4v4h2V16h4V14Z" />
+</svg>

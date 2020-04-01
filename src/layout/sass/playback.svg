@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #383838;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>playback</title>
+  <polygon class="cls-1" points="48.76 45 42.09 50 42.09 40 48.76 45" />
+  <polygon class="cls-1" points="48.76 15 42.09 20 42.09 10 48.76 15" />
+  <polygon class="cls-1" points="18.84 15 12.17 20 12.17 10 18.84 15" />
+  <polygon class="cls-1" points="18.84 45 12.17 50 12.17 40 18.84 45" />
+</svg>
